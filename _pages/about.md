@@ -13,5 +13,3 @@ I’m a forth year undergraduate student from [School of Information](http://inf
 I am very fortunate to be advised by [Prof. Bin CUI](https://cuibinpku.github.io/cuibin_cn.html) and [Prof. Wentao Zhang](https://zwt233.github.io) of [DAIR Lab](https://github.com/PKU-DAIR).
 
 Feel free to email me for potential opportunities!
-
-[Email](roadqaq@163.com)/[Wechat](../image/wechat.jpg)
